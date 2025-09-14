@@ -1,0 +1,25 @@
+FECHA	DESCRIPCIÓN	MONTO
+6/11/2024	Compra Balde de Cera- Sodimac+ pasaje	66
+8/11/2024	Visita - cecilia Joni 	40
+12/11/2024	Compra insumos piso- +2 pasaje	489.71
+12/11/2024	Compra insumos de limpieza	548
+13/11/2024	Visita- grecia- joni	50
+14/11/2024	Legia-gaseosa- Marco antonio	7
+15/11/2024	Joni insumos - cecilia	170
+18/11/2024	pago Cristina abogada  	145
+23/11/2024	visita - joni-emiliano	50
+23/11/2024	pasaje  compras jesus	2
+23/11/2024	compras insumos	256
+28/11/2024	Champu- muebles	120
+28/11/2024	Gaseosa	26.6
+4/12/2024	Compra de insumos de piso	97.17
+4/12/2024	compra de trapeadores	27
+5/12/2024	Dollar city 	60
+5/12/2024	Insumos limpieza	719
+5/12/2024	Minipads Joni 20v-20n-10b-10r	240
+10/12/2024	visita joni	50
+19/12/2024	Compra de insumos de limpieza 	554
+20/12/2024	Compra de Champu  de muebles.	120
+26/12/2024	caja de guantes	40
+28/12/2024	Insumos limpieza	171
+31/12/2024	compra gorro	9.6
